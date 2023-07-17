@@ -1,0 +1,23 @@
+{
+  "name": "forum_vacuum_tests",
+  "version": "1.0.0",
+  "description": "Repositório destinado aos testes E2E do fórum Vacuum",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VacuumORG/forum_vacuum_tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VacuumORG/forum_vacuum_tests/issues"
+  },
+  "homepage": "https://github.com/VacuumORG/forum_vacuum_tests#readme",
+  "dependencies": {
+    "cypress": "^12.17.1"
+  }
+}
